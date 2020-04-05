@@ -1,0 +1,3 @@
+﻿  CSVReader.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  CSVReader.vcxproj -> D:\大学课程\Columbia研究生\其他杂事\QiShi俱乐部\2020C++Disucss\Project\CSVReader\Debug\CSVReader.exe
